@@ -15,7 +15,7 @@ body {
 .slider {
   position: relative;
   width: 80%;
-  min-height: 550px;
+  min-height: 500px;
   margin: 20px;
   overflow: hidden;
   border-radius: 10px;
@@ -60,7 +60,6 @@ body {
   z-index: 999;
   display: flex;
   justify-content: center;
-  margin-top: 50px;
 }
 .navigation-visibility .slide-icon {
   z-index: 999;
